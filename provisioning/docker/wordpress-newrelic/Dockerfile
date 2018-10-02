@@ -1,3 +1,4 @@
+#FROM powertech/wordpress:latest
 FROM wordpress:4.3.1-apache
 
 # Add custom script for running New Relic daemon

@@ -1,0 +1,4 @@
+#!/bin/bash
+ssh-agent /bin/bash
+ssh-add /home/powertech
+ssh -T git@github.com
